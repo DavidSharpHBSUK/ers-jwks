@@ -4,7 +4,7 @@
       "kty": "RSA",
       "n": "oa1e2jNkLcoSw5uPeincyloYdGkWNLwNoLIvKMb2jZ71edjqakgvcnyq4fuaM89UdAR8MtYuaPQ0_7oRXiUJB3YKElF2XTLM7udjF0DEXkDYQ4FivfoHaStHIbiaIHdygkhQC8UY4hbeoBhsdbMqowRjZtVfYzzl47ln2GNRjwWhBZRnOhW0X3wDqAHK3nu-x2b2b7m2Nc6DLaFFwFwYLcXLA57u0ZducKBVGTmYZA-v2MAA4IAgG_3g2XAD-h0LKt_1jELetyNKVoyh3u9oqs3XTBtzK3mKPKlOcflyVZS8P9WoC8IuzvOjc4NvcPK2f7vgeSj4-Cddn9kX2eNvmroz6wXg0Z4WVs_QkypjfmhXJpANQbRCx1hB3llfZCrpcUvVAB23icaCXydbFg-be6T3SVsZ6K1PbzUtft8nW9vdnupv1ZpnE8K7Om-_C9dgLraJuVB_f9fFAieNdcWvFZkVRabM9zE6MYe00quIlA2FYkr6vGF8WEmsPWTYi9PEaELFW-1cICDZ1cJyAU1V4uuw396J3flF6UBHs_txJxND24B1uTkOerOCjtAARlh3J_PjRUwmDy1PjHy3KA7J4ozJXKZEpa22JUUy-7nAeMCbOhUB2Dm_QY0la-_HVl1omD5_X4hp6Cje0O1AFqWd0qQKx61CuX9edHUYOiezuks",
       "e": "AQAB",
-      "alg": "RS256",
+      "alg": "RS512",
       "kid": "test-1",
       "use": "sig"
     }
